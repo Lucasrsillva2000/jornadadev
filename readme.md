@@ -34,6 +34,15 @@ O Horror Game LP é uma criação de uma Landing-Page básica para aplicar o con
 
 - [Visite o projeto online](https://lucasrsillva2000.github.io/jornadadev/)
 
+## 💻 desafios
+O Travel Expert LP é uma criação de uma Landing-Page básica para aplicar o conhecimendo básico do HTML e CSS.
+
+- [Visite o projeto online](https://lucasrsillva2000.github.io/desafiojornadadev/)
+
+O Healthy Recipes LP é uma criação de uma Landing-Page básica para aplicar o conhecimendo básico do HTML e CSS.
+
+- [Visite o projeto online](https://lucasrsillva2000.github.io/desafiojornadadev2/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1216014509044898198). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
